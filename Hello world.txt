@@ -1,4 +1,5 @@
-print ("Hello< world!");
-print ("Hello");
-print ("Hello, jjjjjjjjjjjj");
-print ("трятрятряря");
+print ("Hello< world!;");
+print ("Hello;");
+print ("Hello, jjjjjjjjjjjj;");
+print ("трятрятряря;");
+
